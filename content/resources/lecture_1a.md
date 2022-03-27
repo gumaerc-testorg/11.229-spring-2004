@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8dbc37cd-88b8-90c4-aa5f-a5bf75ba5b1d
 resourcetype: Document
 title: Lecture_1a.pdf
 uid: b90d8267-76ed-aff9-f0cb-de3df3b2a994

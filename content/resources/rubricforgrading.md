@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 1a93ea40-8513-923a-ad1f-8022888a257b
 resourcetype: Document
 title: Rubricforgrading.pdf
 uid: 459add37-5a2c-2e0f-9c6b-2ced2570038b
