@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Instructions for writing assignment.
-file: /media/courses/11-229-advanced-writing-seminar-spring-2004/5b773b5d52e8c8e0b5e6c25b18878402_assignment2.pdf
+file: /courses/11-229-advanced-writing-seminar-spring-2004/5b773b5d52e8c8e0b5e6c25b18878402_assignment2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: assignment2.pdf
 uid: 5b773b5d-52e8-c8e0-b5e6-c25b18878402
 ---
+Instructions for writing assignment.
