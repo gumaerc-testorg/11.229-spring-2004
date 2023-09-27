@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -15,4 +16,4 @@ Gan Golan   ([MP4 - 18MB](https://archive.org/download/MIT11.229S04/Gan-220k.m
 
 During the oral presentations, students will be expected to use the form below to evaluate the work of their peers.
 
-Oral Presentation Evaluation Form ([PDF]({{< baseurl >}}/resources/oral_pres_eval_form))
+Oral Presentation Evaluation Form ({{% resource_link 5ed5fae7-cfe8-8146-4fba-9f73c3a6600a "PDF" %}})
