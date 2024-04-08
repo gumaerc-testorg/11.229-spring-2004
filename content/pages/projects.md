@@ -10,9 +10,9 @@ uid: 61af928c-4500-d9e1-cc93-f2a4347f1377
 
 The video clips below are examples of oral presentations given by students in class. Each video is courtesy of the student named and used with permission.
 
-William Massaquoi  ([MP4 - 15MB](https://archive.org/download/MIT11.229S04/Bill-220k.mp4))
+William Massaquoi  ({{% resource_link "cad50248-5bf7-46e9-be59-9f1f62228f77" "MP4 - 15MB" %}})
 
-Gan Golan   ([MP4 - 18MB](https://archive.org/download/MIT11.229S04/Gan-220k.mp4))
+Gan Golan   ({{% resource_link "57a79743-301b-417d-9132-d360506a1733" "MP4 - 18MB" %}})
 
 During the oral presentations, students will be expected to use the form below to evaluate the work of their peers.
 
