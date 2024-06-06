@@ -42,7 +42,7 @@ Kliment, Steve. "Why Writing Matters: An Introduction." In *Writing for Design P
 
 The KSG Communications Program. *PAE Policy Analysis Exercise: The Writing Guide 2001-2002.* Cambridge, MA: Harvard University.
 
-The online Writing Lab, {{% resource_link "d726f01b-211e-4513-a047-b02b8520b05d" "Writing for a North American Business Audience" %}}.
+The online Writing Lab, [Writing for a North American Business Audience](http://owl.english.purdue.edu/handouts/pw/p_ameraudience.html).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -86,7 +86,7 @@ Kliment, Steve. "Job Prospects." Chapter 8 in *Writing for Design Professionals
 
 Behling, John H. "Notes on Grantsmanship." In *Guidelines for Preparing the Research Proposal.* Lanham, MD: University Press of America, 1984, pp. 74-81. ISBN: 0819137332.
 
-{{% resource_link "933aadd0-1f68-436d-83a4-b6265ebc7d69" "Associated Grant Makers" %}}: Resource Center orientations are held approximately four times a month. These free, hour-long sessions provide an introduction to the Resource Center and available resources for grant maker research, including the AGM *Grant Makers Directory*, FCSearch, Guidestar, the AGM Annual Reports files, and print materials in the Janet C. Taylor Library.
+[Associated Grant Makers](http://www.agmconnect.org/): Resource Center orientations are held approximately four times a month. These free, hour-long sessions provide an introduction to the Resource Center and available resources for grant maker research, including the AGM *Grant Makers Directory*, FCSearch, Guidestar, the AGM Annual Reports files, and print materials in the Janet C. Taylor Library.
 
 Parsons, Wayne. "Models Maps and Metaphors." In *Public Policy: An Introduction to the Theory and Practice of Policy Analysis.* Northampton, UK: Edward Elgar Publishing Ltd., 1996, pp. 57-64. ISBN: 1852785543.
 
@@ -149,7 +149,7 @@ Today we will discuss the video - *Meltdown and Three-mile Island* and we will t
 5\. What about timing?
 
 {{< tdclose >}}{{< tdopen >}}
-Kaplan, Tamara. "{{% resource_link "15a58359-e186-4d62-b92c-c5d7411dcbab" "The Tylenol Crisis: How Effective Public Relations Saved Johnson & Johnson" %}}." Pennsylvania State University.
+Kaplan, Tamara. "[The Tylenol Crisis: How Effective Public Relations Saved Johnson & Johnson](https://studylib.net/doc/15994752/the-tylenol-crisis--how-effective-public-relations-saved-…)." Pennsylvania State University.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
