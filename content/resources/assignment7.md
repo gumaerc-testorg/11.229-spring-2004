@@ -2,6 +2,7 @@
 content_type: resource
 description: Film assignment.
 file: /courses/11-229-advanced-writing-seminar-spring-2004/e995ef9a3b471333a9fdabcfe7f9d9c6_assignment7.pdf
+file_size: 17991
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Outline of Lecture 3.
 file: /courses/11-229-advanced-writing-seminar-spring-2004/8ba3302e3e9c9c54eada5bfc4abfec58_Lecture_3.pdf
+file_size: 38074
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

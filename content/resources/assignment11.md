@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for an oral presentation.
 file: /courses/11-229-advanced-writing-seminar-spring-2004/744a72c5862053ee482d23cfbbc3c8dc_assignment11.pdf
+file_size: 11402
 file_type: application/pdf
 learning_resource_types:
 - Assignments
