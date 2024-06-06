@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for writing assignment.
 file: /courses/11-229-advanced-writing-seminar-spring-2004/3b71fc2a493fde244cb2461c6609ed8e_assignment5.pdf
+file_size: 19402
 file_type: application/pdf
 learning_resource_types:
 - Assignments
