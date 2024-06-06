@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for peer critique and writing assignment.
 file: /courses/11-229-advanced-writing-seminar-spring-2004/70495b973e72531aae9f1f30d484bbbf_assignment12.pdf
+file_size: 20205
 file_type: application/pdf
 learning_resource_types:
 - Assignments

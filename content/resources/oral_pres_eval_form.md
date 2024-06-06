@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines for evaluating and grading student project presentations.
 file: /courses/11-229-advanced-writing-seminar-spring-2004/5ed5fae7cfe881464fba9f73c3a6600a_Oral_Pres_Eval_Form.pdf
+file_size: 23324
 file_type: application/pdf
 learning_resource_types:
 - Projects
