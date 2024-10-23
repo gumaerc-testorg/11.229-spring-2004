@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains tips and suggestions for writing along with brief
   writing exercises.
-file: /courses/11-229-advanced-writing-seminar-spring-2004/b90d826776edaff9f0cbde3df3b2a994_Lecture_1a.pdf
+file: /ol-ocw-studio-app/courses/11-229-advanced-writing-seminar-spring-2004/b90d826776edaff9f0cbde3df3b2a994_Lecture_1a.pdf
 file_size: 19147
 file_type: application/pdf
 learning_resource_types:
