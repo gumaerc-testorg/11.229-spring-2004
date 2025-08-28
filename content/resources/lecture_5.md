@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of Lecture 5.
-file: /courses/11-229-advanced-writing-seminar-spring-2004/e075a9ee385921be1989be1b376739cb_Lecture_5.pdf
+file: /ol-ocw-studio-app/courses/11-229-advanced-writing-seminar-spring-2004/e075a9ee385921be1989be1b376739cb_Lecture_5.pdf
 file_size: 34424
 file_type: application/pdf
 learning_resource_types:
