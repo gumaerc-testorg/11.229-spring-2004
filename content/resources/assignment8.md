@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for writing assignment.
-file: /courses/11-229-advanced-writing-seminar-spring-2004/13758b02be11aebb749b287c32bccdc6_assignment8.pdf
+file: /ol-ocw-studio-app/courses/11-229-advanced-writing-seminar-spring-2004/13758b02be11aebb749b287c32bccdc6_assignment8.pdf
 file_size: 19249
 file_type: application/pdf
 learning_resource_types:
